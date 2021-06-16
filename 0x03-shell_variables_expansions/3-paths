@@ -1,0 +1,2 @@
+#!/bin/bash
+export path=$path:"$ ls | wc -l
