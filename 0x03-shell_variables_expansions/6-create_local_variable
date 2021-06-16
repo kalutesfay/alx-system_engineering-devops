@@ -1,2 +1,2 @@
 #!/bin/bash
-func () {local BETTY=Holberton}
+echo "local BETTY=Holberton"
